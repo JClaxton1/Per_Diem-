@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Per Diem</string>
+    <string name="my_expense_reports">My Expense Reports</string>
+    <string name="save">Save</string>
+    <string name="expenses">Expenses</string>
+    <string name="reports">Reports</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="add_marker">Add Marker</string>
+    <string name="save1">Save</string>
+</resources>

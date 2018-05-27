@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "856232870877",
+    "firebase_url": "https://per-diem-63185.firebaseio.com",
+    "project_id": "per-diem-63185",
+    "storage_bucket": "per-diem-63185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856232870877:android:90cac29dfe9f207e",
+        "android_client_info": {
+          "package_name": "com.example.jay.perdiem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856232870877-qdmtf7qje5cedam3a61ncnm4ol4ji3d2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jay.perdiem",
+            "certificate_hash": "b0f6d01d4be4be1032fe569be9815ce68bd85128"
+          }
+        },
+        {
+          "client_id": "856232870877-n8s8add6f4qf8mb9rantfs937rapumrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2rBvjER-pcpRH_aDv-W7em6erq9oFGko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856232870877-n8s8add6f4qf8mb9rantfs937rapumrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
